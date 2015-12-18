@@ -13,8 +13,16 @@
  */
 int main(int argc, char** argv) {
     printf("Lab3 OSI 2015");
+<<<<<<< HEAD
     printf("Lab3 OSI");
-    printf("vlad the implyer");
+=======
+    int x;
+    scanf("%d",&x);
+    printf("%d",x);
+    
+    
+     printf("vlad the implyer");
+>>>>>>> origin/master
     return (EXIT_SUCCESS);
 }
 
