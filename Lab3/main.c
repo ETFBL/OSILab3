@@ -12,6 +12,7 @@
  * 
  */
 int main(int argc, char** argv) {
+    printf("Lab3 OSI 2015");
     printf("Lab3 OSI");
     printf(">vlad the implyer");
     return (EXIT_SUCCESS);
