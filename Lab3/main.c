@@ -13,6 +13,9 @@
  */
 int main(int argc, char** argv) {
     printf("Lab3 OSI 2015");
+    int x;
+    scanf("%d",&x);
+    printf("%d",x);
     return (EXIT_SUCCESS);
 }
 
