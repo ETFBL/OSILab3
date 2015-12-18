@@ -12,7 +12,7 @@
  * 
  */
 int main(int argc, char** argv) {
-    printf("Lab3 OSI");
+    printf("Lab3 OSI 2015");
     return (EXIT_SUCCESS);
 }
 
